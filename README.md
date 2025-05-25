@@ -1,4 +1,4 @@
-# Spark Student Showcase - Akash's Portfolio
+# Spark Student Showcase - Dharma's Portfolio
 
 A full-stack portfolio application featuring a modern React frontend with an Express.js backend API. This project showcases web development skills through a clean, responsive design and robust backend infrastructure.
 
@@ -86,7 +86,7 @@ spark-student-showcase/
 
 ### Clone Repository
 ```bash
-git clone https://github.com/akash2005-sys/spark-student-showcase.git
+git clone https://github.com/dharma2005-sys/spark-student-showcase.git
 cd spark-student-showcase
 ```
 
@@ -141,8 +141,8 @@ CONTACT_EMAIL=your-contact-email@gmail.com
 - `POST /api/contact` - Submit contact form
   ```json
   {
-    "name": "Akash",
-    "email": "akashsannidhi32@gmail.com",
+    "name": "Dharma",
+    "email": "dharmaashok625@gmail.com",
     "message": "Hello, I'd like to connect!"
   }
   ```
@@ -231,10 +231,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Contact
 
 **Sanjay**
-- Portfolio: [https://akash2005-sys.vercel.app](https://akash2005-sys.vercel.app)
-- GitHub: [@akash2005-sys](https://github.com/akash2005-sys)
+- Portfolio: [https://github.com/dharmaashok/portfolio](https://github.com/dharmaashok/portfolio)
+- GitHub: [Github@1212-sys](https://github.com/dharmaashok/portfolio)
 
-- Email: akashsannidhi32@gmail.com
+- Email: dharmaashok625@gmail.com
 
 ## 🙏 Acknowledgments
 
