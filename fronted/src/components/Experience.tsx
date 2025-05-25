@@ -11,7 +11,7 @@ const Experience = () => {
       organization: "VIT-AP University",
       period: "2022 - 2026",
       description: "Relevant coursework: Data Structures, Computer Architecture, Machine Learning, Digital Systems Design",
-      achievements: ["Dean's List (3 semesters)", "GPA: 8.09/10.0"]
+      achievements: [ "GPA: 8.09/10.0"]
     },
 
   ];
